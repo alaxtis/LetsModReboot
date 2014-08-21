@@ -1,0 +1,21 @@
+[
+{
+"modid": "LetsModReboot",
+"name": "Let's Mod Reboot",
+"description": "I'm learning how to mod, so this is a thing. Thanks to Pahimar for his awesome tutorials!",
+"version": "1.0",
+"credits": "Pahimar and Alaxtis",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authors": [
+"Pahimar", "Alaxtis"
+],
+"parent": "",
+"screenshots": [],
+"dependencies": [
+"MinecraftForge"
+]
+}
+]
